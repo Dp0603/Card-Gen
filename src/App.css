@@ -1,0 +1,401 @@
+.form {
+  width: 50%;
+  border: 5px solid rgb(0, 0, 0);
+  position: sticky;
+  margin: -2% -2% -2% -2%;
+  padding: 2%;
+  float: left;
+
+  font-family: Tahoma, Geneva, Verdana, sans-serif;
+  scrollbar-darkshadow-color: black;
+  border-style: groove;
+  box-shadow: 10px 10px 10px black;
+  background-color: #37caf7e3;
+  color: white;
+  border-radius: 10px;
+  background-image: url("C:\Users\patel\Downloads\NEW 15 Days\Business Card\New folder\1.jpg");
+  background-repeat: repeat-x repeat-y;
+  background-size: cover;
+}
+
+input,
+label {
+  margin-bottom: 10px;
+}
+
+input,
+button {
+  padding-top: 10px;
+}
+
+.container {
+  border: 5px solid black;
+  padding: 20px 5px 15px 15px;
+  border-radius: 10px;
+  background-image: url("C:\Users\patel\Downloads\NEW 15 Days\Business Card\New folder\1.jpg");
+  background-size: cover;
+  margin: 0px;
+  font-family: Geneva, Verdana, sans-serif;
+  color: rgb(0, 0, 0);
+  width: 15cm;
+  height: 8cm;
+  border-radius: 10px;
+}
+
+.downbtn {
+  padding: 10px;
+  margin-left: 30px;
+  box-sizing: 50px;
+}
+
+.half {
+  margin-left: 20px;
+}
+
+#GymCard {
+  background-image: url("C:\Users\patel\Downloads\NEW 15 Days\Business Card\New folder\1.jpg");
+  background-repeat: repeat-x repeat-y;
+  background-size: cover;
+  color: beige;
+}
+
+.form1 {
+  width: 50%;
+  border: 5px solid rgb(0, 0, 0);
+  position: sticky;
+  margin: -2% -2% -2% -2%;
+  padding: 2%;
+  float: left;
+
+  font-family: Tahoma, Geneva, Verdana, sans-serif;
+  scrollbar-darkshadow-color: black;
+  border-style: groove;
+  box-shadow: 10px 10px 10px black;
+  background-color: #37caf7e3;
+  color: white;
+  border-radius: 10px;
+  background-repeat: repeat-x repeat-y;
+  background-size: cover;
+
+  background-image: url("C:\Users\patel\Downloads\NEW 15 Days\Business Card\New folder\1.jpg");
+}
+
+.DP {
+  margin-left: 50px;
+}
+
+.garlic {
+  text-align: end;
+}
+
+.ABCD {
+  text-align: auto;
+}
+
+body.dark-mode {
+  background-color: #121212;
+  color: white;
+}
+
+body.dark-mode a {
+  color: white;
+}
+
+body.dark-mode .navbar-light {
+  background-color: #343a40 !important;
+}
+
+body.dark-mode .navbar-light .nav-link {
+  color: white !important;
+}
+
+.form2 {
+  width: 50%;
+  border: 5px solid rgb(0, 0, 0);
+  position: sticky;
+  margin: -2% -2% -2% -2%;
+  padding: 2%;
+  float: left;
+
+  font-family: Tahoma, Geneva, Verdana, sans-serif;
+  scrollbar-darkshadow-color: black;
+  border-style: groove;
+  box-shadow: 10px 10px 10px black;
+  background-color: #37caf7e3;
+  color: white;
+  border-radius: 10px;
+  background-image: url("C:\Users\patel\Downloads\NEW 15 Days\Business Card\New folder\1.jpg");
+  background-repeat: repeat-x repeat-y;
+  background-size: cover;
+}
+
+.form3 {
+  width: 50%;
+  border: 5px solid rgb(0, 0, 0);
+  position: sticky;
+  margin: -2% -2% -2% -2%;
+  padding: 2%;
+  float: left;
+
+  font-family: Tahoma, Geneva, Verdana, sans-serif;
+  scrollbar-darkshadow-color: black;
+  border-style: groove;
+  box-shadow: 10px 10px 10px black;
+  background-color: #37caf7e3;
+  color: white;
+  border-radius: 10px;
+  background-image: url("C:\Users\patel\Downloads\NEW 15 Days\Business Card\New folder\1.jpg");
+  background-repeat: repeat-x repeat-y;
+  background-size: cover;
+}
+
+.form4 {
+  width: 50%;
+  border: 5px solid rgb(0, 0, 0);
+  position: sticky;
+  margin: -2% -2% -2% -2%;
+  padding: 2%;
+  float: left;
+
+  font-family: Tahoma, Geneva, Verdana, sans-serif;
+  scrollbar-darkshadow-color: black;
+  border-style: groove;
+  box-shadow: 10px 10px 10px black;
+  background-color: #37caf7e3;
+  color: white;
+  border-radius: 10px;
+  background-image: url("C:\Users\patel\Downloads\NEW 15 Days\Business Card\New folder\1.jpg");
+  background-repeat: repeat-x repeat-y;
+  background-size: cover;
+}
+
+.form5 {
+  width: 50%;
+  border: 5px solid rgb(0, 0, 0);
+  position: sticky;
+  margin: -2% -2% -2% -2%;
+  padding: 2%;
+  float: left;
+
+  font-family: Tahoma, Geneva, Verdana, sans-serif;
+  scrollbar-darkshadow-color: black;
+  border-style: groove;
+  box-shadow: 10px 10px 10px black;
+  background-color: #37caf7e3;
+  color: white;
+  border-radius: 10px;
+  background-image: url("C:\Users\patel\Downloads\NEW 15 Days\Business Card\New folder\1.jpg");
+  background-repeat: repeat-x repeat-y;
+  background-size: cover;
+}
+
+#StudentCard {
+  background-image: url("C:\Users\patel\Downloads\NEW 15 Days\Business Card\New folder\1.jpg");
+  background-repeat: repeat-x repeat-y;
+  background-size: cover;
+  color: black;
+}
+#EmployeeIDCard {
+  background-image: url("C:\Users\patel\Downloads\NEW 15 Days\Business Card\New folder\1.jpg");
+  background-repeat: repeat-x repeat-y;
+  background-size: cover;
+  color: beige;
+}
+
+#EventPass {
+  background-image: url("C:\Users\patel\Downloads\NEW 15 Days\Business Card\New folder\1.jpg");
+  background-repeat: repeat-x repeat-y;
+  background-size: cover;
+  color: rgb(0, 0, 0);
+}
+
+#MedicalIDCard {
+  background-image: url("C:\Users\patel\Downloads\NEW 15 Days\Business Card\New folder\1.jpg");
+  background-repeat: repeat-x repeat-y;
+  background-size: cover;
+  color: black;
+}
+
+body.dark-mode {
+  background-color: #121212;
+  color: white;
+}
+
+body.dark-mode .content {
+  background: #343a40;
+  color: white;
+}
+
+body.dark-mode .content ul li {
+  background: #555;
+}
+
+.C1 {
+  border: 1px solid black;
+  padding: 10px;
+  background-image: url("C:\Users\patel\Downloads\NEW 15 Days\Business Card\New folder\1.jpg");
+  background-size: cover;
+  width: 15cm;
+  height: 8cm;
+  color: rgb(0, 0, 0);
+}
+
+.C1C {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  text-align: right;
+}
+
+.C2 {
+  border: 1px solid black;
+  padding: 20px;
+  background-image: url("C:\Users\patel\Downloads\NEW 15 Days\Business Card\New folder\2.jpg");
+  background-size: cover;
+  width: 15cm;
+  height: 8cm;
+  color: rgb(0, 0, 0);
+  font-family: cursive;
+}
+
+.C3 {
+  border: 1px solid black;
+  padding: 20px;
+  background-image: url("C:\Users\patel\Downloads\NEW 15 Days\Business Card\New folder\3.jpg");
+  background-size: cover;
+  width: 15cm;
+  height: 8cm;
+  color: whitesmoke;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+
+.C4 {
+  border: 1px solid black;
+  padding: 20px;
+  background-image: url("C:\Users\patel\Downloads\NEW 15 Days\Business Card\New folder\4.jpg");
+  background-size: cover;
+  width: 15cm;
+  height: 8cm;
+  color: rgb(255, 255, 255);
+  font-family: cursive;
+}
+
+.C4C {
+  display: flex;
+  flex-direction: column;
+}
+
+.C5 {
+  display: flex;
+  flex-direction: column;
+  border: 1px solid black;
+  padding: 20px;
+  background-image: url("C:\Users\patel\Downloads\NEW 15 Days\Business Card\New folder\5.jpg");
+  background-size: cover;
+  width: 15cm;
+  height: 8cm;
+
+  color: black;
+
+  font-family: "Times New Roman", Times, serif;
+  padding-top: 50px;
+}
+
+.C6 {
+  display: flex;
+  flex-direction: column;
+  border: 1px solid black;
+  padding: 20px;
+  background-image: url("C:\Users\patel\Downloads\NEW 15 Days\Business Card\New folder\6.jpg");
+  background-size: cover;
+  width: 15cm;
+  height: 8cm;
+
+  color: rgb(255, 255, 255);
+
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+  padding-top: 50px;
+}
+
+.C7 {
+  display: flex;
+  flex-direction: column;
+  border: 1px solid black;
+  padding: 20px;
+  background-image: url("C:\Users\patel\Downloads\NEW 15 Days\Business Card\New folder\7.jpg");
+  background-size: cover;
+  width: 15cm;
+  height: 8cm;
+  text-align: end;
+  color: rgb(32, 3, 78);
+
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+  padding-top: 50px;
+}
+
+.C8 {
+  display: flex;
+  flex-direction: column;
+  border: 1px solid black;
+  padding: 20px;
+  background-image: url("C:\Users\patel\Downloads\NEW 15 Days\Business Card\New folder\8.jpg");
+  background-size: cover;
+  width: 15cm;
+  height: 8cm;
+  text-align: left;
+  color: black;
+
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+  padding-top: 50px;
+}
+
+.C9 {
+  display: flex;
+  flex-direction: column;
+  border: 1px solid black;
+  padding: 20px;
+  background-image: url("C:\Users\patel\Downloads\NEW 15 Days\Business Card\New folder\9.jpg");
+  background-size: cover;
+  width: 15cm;
+  height: 8cm;
+  text-align: end;
+  color: black;
+
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+  padding-top: 50px;
+}
+.C10 {
+  display: flex;
+  flex-direction: column;
+  border: 1px solid black;
+  padding: 20px;
+  background-image: url("C:\Users\patel\Downloads\NEW 15 Days\Business Card\New folder\10.jpg");
+  background-size: cover;
+  width: 15cm;
+  height: 8cm;
+  text-align: left;
+  color: black;
+
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+  padding-top: 50px;
+}
+
+.EventCard {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  gap: 50px;
+  row-gap: 0px;
+  justify-content: center;
+  align-items: center;
+}
+
+.MCard {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  gap: 50px;
+  row-gap: 0px;
+  justify-content: center;
+  align-items: center;
+}

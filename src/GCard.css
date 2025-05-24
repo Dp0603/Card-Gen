@@ -1,0 +1,69 @@
+html,
+body {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+}
+
+body {
+  background: linear-gradient(to right, #6a11cb, #2575fc);
+  background-attachment: fixed;
+  background-size: cover;
+  overflow-x: hidden;
+}
+
+.Bcard {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 50px;
+  row-gap: 0px;
+  justify-content: center;
+  align-items: flex-start;
+  padding: 20px;
+  min-height: 100vh;
+  box-sizing: border-box;
+}
+
+.C1,
+.C2,
+.C3,
+.C4,
+.C5,
+.C6,
+.C7,
+.C8,
+.C9,
+.C10 {
+  background-color: #ffffff;
+  border-radius: 15px;
+  border: 1px solid #dee2e6;
+  box-shadow: 0 10px 20px rgba(0, 0, 0, 0.15);
+  padding: 20px;
+  text-align: center;
+  cursor: pointer;
+  transition: transform 0.3s, box-shadow 0.3s;
+  width: 100%;
+  max-width: 500px;
+}
+
+.C1:hover,
+.C2:hover,
+.C3:hover,
+.C4:hover,
+.C5:hover,
+.C6:hover,
+.C7:hover,
+.C8:hover,
+.C9:hover,
+.C10:hover {
+  transform: scale(1.05);
+  box-shadow: 0 15px 30px rgba(0, 0, 0, 0.25);
+}
+
+.my-5 {
+  margin: 3rem 0;
+}
+
+.my-4 {
+  margin: 1rem 0;
+}
